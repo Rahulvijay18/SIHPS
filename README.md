@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:13/05/2024
+## Register Number:212223040164
+## Name: RAHUL VIJAY V 
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
